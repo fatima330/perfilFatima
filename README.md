@@ -1,4 +1,4 @@
-- 👋 oi, eu sou @fatima330
+👋 oi, eu sou @fatima330
 
 <!---
 fatima330/fatima330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
