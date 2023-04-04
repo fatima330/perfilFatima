@@ -6,9 +6,6 @@ You can click the Preview link to take a look at your changes.
 ## Oiii eu sou a Fátima Oliveira
 Estou aprendendo programação
 
-## Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fatima330&repo=https://github.com/fatima330/TikTok---Projet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
   <a href="https://github.com/fatimaoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima&layout=compact&langs_count=7&theme=dracula"/>
