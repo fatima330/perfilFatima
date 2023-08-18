@@ -3,8 +3,12 @@
 fatima330/fatima330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Oiii eu sou a Fátima Oliveira :woman_technologist:
-Estou aprendendo programação
+## Oi eu sou a Fátima Oliveira :woman_technologist:
+Estou no quarto semestre de Analise e Desenvolvimento de Sistemas 
+Aprendendo programação, Java, C# e banco de dados, Oracle, Postgree, SQL, MySql
+Em busca de um Estagio, ou uma oportunidade para ingressar no mercado de trabalho
+No momento estou no Bootcamp da DIO com Santander
+Em busca de desafios
 
 ## linguagens que estou aprendendo
 
