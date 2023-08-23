@@ -4,15 +4,31 @@ fatima330/fatima330 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Oi eu sou a Fátima Oliveira :woman_technologist:
-<br> Estou no quarto semestre de Analise e Desenvolvimento de Sistemas <br/> 
 
-<br> Aprendendo programação, Java, C# e banco de dados, Oracle, Postgree, SQL, MySql <br/>  
+<br> <h3> Estou no quarto semestre de Analise e Desenvolvimento de Sistemas <br/> 
 
-<br> Em busca de um Estagio, ou uma oportunidade para ingressar no mercado de trabalho  <br/> 
+<br> Aprendendo programação, Java, C# e banco de dados, Oracle, SQL, MySql <br/>  
 
-<br> No momento estou no Bootcamp da DIO com Santander  <br/> 
+<br> Em busca de um Estagio, ou uma oportunidade para ingressar no mercado de 
+trabalho  <br/>
 
-<br> Em busca de desafios  <br/> 
+ <br>No momento estou no Bootcamp da DIO com Santander <br/> 
+
+
+ ## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fatimaoliveira428/)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/fatimaoliveira616)
+
+ ## Habilidades
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+
+
+ ## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatima330&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## linguagens que estou aprendendo
@@ -28,20 +44,9 @@ You can click the Preview link to take a look at your changes.
  <img aling="center" alt="fatima-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
-## mais detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatima330&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Linguagens utilizadas
+## Linguagens
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fatima330&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima330&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- <div> 
-  <a href="https://instagram.com/fatimaoliveira616" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fatimaolliveira428@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fátima-oliveira-9585a9162" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
