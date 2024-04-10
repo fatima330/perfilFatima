@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Generate Datas
+name: Generate Snake
 
 on:
   schedule: # execute every 12 hours
