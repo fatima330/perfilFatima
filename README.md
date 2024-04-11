@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <br> <h3> Estou no quarto semestre de Analise e Desenvolvimento de Sistemas <br/> 
 
-<br> Aprendendo programação, Java, C# e banco de dados, SQL, MySql <br/>  
+<br> Aprendendo programação, HTML, CSS, C# e banco de dados, SQL, MySql <br/>  
 
 <br> Em busca de um Estagio, ou uma oportunidade para ingressar no mercado de 
 trabalho  <br/>
